@@ -18,6 +18,7 @@ Hydrogen is Shopify’s stack for headless commerce. Hydrogen is designed to dov
 - Tailwind CSS (via PostCSS)
 - Full-featured setup of components and routes
 
+
 ## Getting started
 
 **Requirements:**
