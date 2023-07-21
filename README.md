@@ -30,6 +30,7 @@ Hydrogen is Shopify’s stack for headless commerce. Hydrogen is designed to dov
 npm create @shopify/hydrogen@latest -- --template demo-store
 ```
 
+
 Remember to update `.env` with your shop's domain and Storefront API token!
 
 ## Building for production
