@@ -18,19 +18,15 @@ Hydrogen is Shopify’s stack for headless commerce. Hydrogen is designed to dov
 - Tailwind CSS (via PostCSS)
 - Full-featured setup of components and routes
  
-
-
 ## Getting started
 
 **Requirements:**
-
 
 - Node.js version 16.14.0 or higher
 
 ```bash
 npm create @shopify/hydrogen@latest -- --template demo-store
 ```
-
 
 Remember to update `.env` with your shop's domain and Storefront API token!
 
@@ -45,6 +41,3 @@ npm run build
 ```bash
 npm run dev
 ```
-
-
-
